@@ -1,1 +1,0 @@
-A mixed-race seaside town on the planet [[Piquesce]]. Environment is generally warm with greenery and rock formations around.
