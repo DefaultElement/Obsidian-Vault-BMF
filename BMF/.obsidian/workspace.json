@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "d9ed9e73bbf3af01",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d05f51bad9f3239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96472a125a8c874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/0Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2efed1a013efe75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Fex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90e423b20932110a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a93c5ab16a4b3ea3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "800eb22e3a2e19ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b55bd47869936a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3424f13a88bb1176",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2381352987610e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec96562f8e5d3794",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc4ceb7258cc5edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb86a475c3bc85e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "778a4bd8b09deee4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Fex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77f9f87d5c69296a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Fex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34528d8f651ea469",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ae1bad8d3e1f327f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Fex.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a2efed1a013efe75",
+  "lastOpenFiles": [
+    "People/Arianwen.md",
+    "People/Anbresh.md",
+    "People/Brittney Cardemom.md",
+    "People/0Template.md",
+    "People/Fex.md",
+    "People/Red.md",
+    "People/Per.md",
+    "C&C Café.md",
+    "Planets/(Jacques Planet).md",
+    "Planets/(Dragon Planet).md",
+    "People/(Claire's Aunt).md",
+    "Cities & Towns/(Jacques city).md",
+    "Cities & Towns/Tzkzjubi.md",
+    "Untitled.md",
+    "Races/Demon.md",
+    "People/Corrin.md",
+    "People/Frangilo.md",
+    "People/Dan.md",
+    "People/Tibault.md",
+    "People/Claire.md",
+    "People/Garry.md",
+    "Races/Dragon.md",
+    "Races/Human.md",
+    "People/Shelly.md",
+    "People/Rutmocci.md",
+    "People/Reba.md",
+    "People",
+    "Races",
+    "Cities & Towns",
+    "Planets"
+  ]
+}
