@@ -12,7 +12,7 @@ Parents: Two
 Siblings: Many
 Children: [[Reba]], [[Red]], [[Maci]], [[Shelly]], [[Dan]] 
 Friends: [[Arianwen]]
-Acquaintances: [[Grey]], [[Tibault]] 
+Acquaintances: [[Grey]], [[Tibault]], [[Timon]]
 Lovers: [[Rutmocci]] 
 
 Born and raised on [[Piquesce]] in [[Ryfusnium]] (Ages 0-19)
